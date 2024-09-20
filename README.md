@@ -40,7 +40,7 @@ To run the application in development mode, execute:
 npm run dev
 ```
 
-The app will be available at `http://localhost:3000`.
+The app will be available at `http://localhost:5173/`.
 
 **Fake API Server**
 To run the mock API server (with a delay of 500ms):
